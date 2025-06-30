@@ -22,7 +22,7 @@ https://real-estate-project-ksqcsjy4c7gj3xw7977a2m.streamlit.app/
 
 🏠 Smart price prediction for flats and houses using ML models
 
-📍 Geo-map visualization of average sector-wise property prices in Gurugram
+📍 Geo-map visualization of average price-per-sqft of sector-wise property  in Gurugram
 
 📊 Interactive analytics including pie charts, scatter plots, and distribution graphs
 
