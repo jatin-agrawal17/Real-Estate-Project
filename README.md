@@ -1,7 +1,7 @@
 
 # 🏙️ Real Estate Price Predictor & Recommendation App
 
-🏠 Real Estate Analytical App helps users estimate property prices for flats and houses based on custom inputs like location, size, and amenities.   
+🏠 Real Estate Analytical App helps users estimate property prices for flats and houses of **Gurgaon** based on custom inputs like location, size, and amenities.   
 📊 It features interactive analytics, including geo-based price visualizations and market trends.  
 🧭 Users can also discover similar properties based on distance and recommendations from selected listings.
 
@@ -112,7 +112,7 @@ Since pipeline.pkl is larger than GitHub’s file limit (100 MB), it is compress
 
 The app uses a preloaded dataset and does not fetch live or real-time property listings or prices.
 
-The analysis is focused on a specific region/city and may not be applicable to other locations without modification.
+The analysis is focused on a specific city which is **Gurgaon** and may not be applicable to other locations without modification.
 ## 🙌 Acknowledgements
 Gained Knowledge about ML Algorithms
 
