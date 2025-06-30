@@ -49,7 +49,7 @@ https://real-estate-project-ksqcsjy4c7gj3xw7977a2m.streamlit.app/
 | 🌐 **Plotly**     | For creating interactive and responsive visualizations. |
 | 🧵 **Streamlit**  | For building fast, interactive data apps. |
 | 🧪 **Scikit-learn** | For building the recommendation engine and computing similarity. |
-| 🧠 **Cosine Similarity** | Used to measure similarity between books. |
+| 🧠 **Cosine Similarity** | Used to measure similarity between properties. |
 | 🧊 **Pickle**     | For serializing and saving Python objects like models and data. |
 | ☁️ **Cloudpickle** | Enhanced version of pickle used for saving complex functions and objects. |
 | ☁️ **WordCloud**  | For generating word clouds to visualize features. |
@@ -77,7 +77,7 @@ https://real-estate-project-ksqcsjy4c7gj3xw7977a2m.streamlit.app/
 
 ### 🔧 Prerequisites
 - Make sure you have **Python 3.x** and **pip** installed on your system.
-- Recommended to use a **virtual environment** (optional but clean).
+- Recommended to use a **virtual environment** (optional).
 
 ---
 
